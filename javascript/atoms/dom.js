@@ -19,7 +19,7 @@
  * @fileoverview DOM manipulation and querying routines.
  */
 
-goog.provide('bot.dom');
+const bot = goog.provide('bot.dom');
 
 goog.require('bot');
 goog.require('bot.color');

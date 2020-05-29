@@ -21,7 +21,7 @@
  * goog.color.alpha.
  */
 
-goog.provide('bot.color');
+const bot = goog.provide('bot.color');
 
 goog.require('goog.array');
 goog.require('goog.color.names');
