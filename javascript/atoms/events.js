@@ -30,7 +30,7 @@ goog.provide('bot.events.MouseArgs');
 goog.provide('bot.events.Touch');
 goog.provide('bot.events.TouchArgs');
 
-goog.require('bot');
+const bot = goog.require('bot');
 goog.require('bot.Error');
 goog.require('bot.ErrorCode');
 goog.require('bot.userAgent');
